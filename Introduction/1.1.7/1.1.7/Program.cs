@@ -6,11 +6,24 @@ namespace _1._1._7
     {
         static bool IsPrime(int number)
         {
-            for (int i = 3; i < 10; i++)
+            if (number > 10)
             {
-                if (number % i == 0)
+                for (int i = 3; i < 10; i++)
                 {
-                    return false;
+                    if (number % i == 0)
+                    {
+                        return false;
+                    }
+                }
+            }
+            else
+            {
+                for (int i = 3; i < number; i++)
+                {
+                    if (number % i == 0)
+                    {
+                        return false;
+                    }
                 }
             }
             return true;
