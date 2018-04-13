@@ -1,0 +1,7 @@
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.4\1.2.4\bin\Release\1.2.4.exe.config
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.4\1.2.4\bin\Release\1.2.4.exe
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.4\1.2.4\bin\Release\1.2.4.pdb
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.4\1.2.4\obj\Release\1.2.4.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.4\1.2.4\obj\Release\1.2.4.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.4\1.2.4\obj\Release\1.2.4.exe
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.4\1.2.4\obj\Release\1.2.4.pdb
