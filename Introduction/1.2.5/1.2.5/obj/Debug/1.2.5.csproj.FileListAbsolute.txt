@@ -1,0 +1,7 @@
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.5\1.2.5\bin\Debug\1.2.5.exe.config
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.5\1.2.5\bin\Debug\1.2.5.exe
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.5\1.2.5\bin\Debug\1.2.5.pdb
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.5\1.2.5\obj\Debug\1.2.5.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.5\1.2.5\obj\Debug\1.2.5.exe
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.5\1.2.5\obj\Debug\1.2.5.pdb
+C:\Users\Nikita\Dropbox\ISD\Lesson1\Иван\1.2.5\1.2.5\obj\Debug\1.2.5.csprojResolveAssemblyReference.cache
