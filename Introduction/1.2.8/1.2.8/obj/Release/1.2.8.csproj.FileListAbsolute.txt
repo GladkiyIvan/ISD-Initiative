@@ -1,0 +1,6 @@
+C:\Users\Nikita\Dropbox\MyISD\Lesson1\1.2.8\1.2.8\bin\Release\1.2.8.exe.config
+C:\Users\Nikita\Dropbox\MyISD\Lesson1\1.2.8\1.2.8\bin\Release\1.2.8.exe
+C:\Users\Nikita\Dropbox\MyISD\Lesson1\1.2.8\1.2.8\bin\Release\1.2.8.pdb
+C:\Users\Nikita\Dropbox\MyISD\Lesson1\1.2.8\1.2.8\obj\Release\1.2.8.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Dropbox\MyISD\Lesson1\1.2.8\1.2.8\obj\Release\1.2.8.exe
+C:\Users\Nikita\Dropbox\MyISD\Lesson1\1.2.8\1.2.8\obj\Release\1.2.8.pdb
