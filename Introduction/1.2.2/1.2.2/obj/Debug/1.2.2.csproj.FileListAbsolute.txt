@@ -1,0 +1,6 @@
+E:\ISD\1.2.2\1.2.2\bin\Debug\1.2.2.exe
+E:\ISD\1.2.2\1.2.2\bin\Debug\1.2.2.pdb
+E:\ISD\1.2.2\1.2.2\obj\Debug\1.2.2.csproj.CoreCompileInputs.cache
+E:\ISD\1.2.2\1.2.2\obj\Debug\1.2.2.exe
+E:\ISD\1.2.2\1.2.2\obj\Debug\1.2.2.pdb
+E:\ISD\1.2.2\1.2.2\obj\Debug\1.2.2.csprojResolveAssemblyReference.cache
