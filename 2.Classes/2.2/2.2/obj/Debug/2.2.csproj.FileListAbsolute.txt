@@ -1,0 +1,7 @@
+C:\Users\Ivan\Desktop\ISD\ISD-Initiative\2.Classes\2.2\2.2\bin\Debug\2.2.exe.config
+C:\Users\Ivan\Desktop\ISD\ISD-Initiative\2.Classes\2.2\2.2\bin\Debug\2.2.exe
+C:\Users\Ivan\Desktop\ISD\ISD-Initiative\2.Classes\2.2\2.2\bin\Debug\2.2.pdb
+C:\Users\Ivan\Desktop\ISD\ISD-Initiative\2.Classes\2.2\2.2\obj\Debug\2.2.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\ISD\ISD-Initiative\2.Classes\2.2\2.2\obj\Debug\2.2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\ISD\ISD-Initiative\2.Classes\2.2\2.2\obj\Debug\2.2.exe
+C:\Users\Ivan\Desktop\ISD\ISD-Initiative\2.Classes\2.2\2.2\obj\Debug\2.2.pdb
