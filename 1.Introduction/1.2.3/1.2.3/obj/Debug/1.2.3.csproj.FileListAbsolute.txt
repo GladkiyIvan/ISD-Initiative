@@ -1,6 +1,0 @@
-E:\ISD\1.2.3\1.2.3\bin\Debug\1.2.3.exe
-E:\ISD\1.2.3\1.2.3\bin\Debug\1.2.3.pdb
-E:\ISD\1.2.3\1.2.3\obj\Debug\1.2.3.csprojResolveAssemblyReference.cache
-E:\ISD\1.2.3\1.2.3\obj\Debug\1.2.3.csproj.CoreCompileInputs.cache
-E:\ISD\1.2.3\1.2.3\obj\Debug\1.2.3.exe
-E:\ISD\1.2.3\1.2.3\obj\Debug\1.2.3.pdb

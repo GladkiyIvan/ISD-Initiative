@@ -1,7 +1,0 @@
-C:\Users\takta\Dropbox\ISD\Lesson1\1.0.0\1.0.0\bin\Debug\1.0.0.exe.config
-C:\Users\takta\Dropbox\ISD\Lesson1\1.0.0\1.0.0\bin\Debug\1.0.0.exe
-C:\Users\takta\Dropbox\ISD\Lesson1\1.0.0\1.0.0\bin\Debug\1.0.0.pdb
-C:\Users\takta\Dropbox\ISD\Lesson1\1.0.0\1.0.0\obj\Debug\1.0.0.csprojResolveAssemblyReference.cache
-C:\Users\takta\Dropbox\ISD\Lesson1\1.0.0\1.0.0\obj\Debug\1.0.0.csproj.CoreCompileInputs.cache
-C:\Users\takta\Dropbox\ISD\Lesson1\1.0.0\1.0.0\obj\Debug\1.0.0.exe
-C:\Users\takta\Dropbox\ISD\Lesson1\1.0.0\1.0.0\obj\Debug\1.0.0.pdb
