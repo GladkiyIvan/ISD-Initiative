@@ -1,0 +1,7 @@
+C:\Users\tRn\Documents\Visual Studio 2015\Projects\Year2.0\2.4\2.4\bin\Debug\2.4.exe.config
+C:\Users\tRn\Documents\Visual Studio 2015\Projects\Year2.0\2.4\2.4\bin\Debug\2.4.exe
+C:\Users\tRn\Documents\Visual Studio 2015\Projects\Year2.0\2.4\2.4\bin\Debug\2.4.pdb
+C:\Users\tRn\Documents\Visual Studio 2015\Projects\Year2.0\2.4\2.4\obj\Debug\2.4.csprojResolveAssemblyReference.cache
+C:\Users\tRn\Documents\Visual Studio 2015\Projects\Year2.0\2.4\2.4\obj\Debug\2.4.csproj.CoreCompileInputs.cache
+C:\Users\tRn\Documents\Visual Studio 2015\Projects\Year2.0\2.4\2.4\obj\Debug\2.4.exe
+C:\Users\tRn\Documents\Visual Studio 2015\Projects\Year2.0\2.4\2.4\obj\Debug\2.4.pdb
