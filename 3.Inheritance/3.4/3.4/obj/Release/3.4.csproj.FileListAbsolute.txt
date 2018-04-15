@@ -1,0 +1,7 @@
+C:\Users\takta\Dropbox\ISD\3.4\3.4\bin\Release\3.4.exe.config
+C:\Users\takta\Dropbox\ISD\3.4\3.4\bin\Release\3.4.exe
+C:\Users\takta\Dropbox\ISD\3.4\3.4\bin\Release\3.4.pdb
+C:\Users\takta\Dropbox\ISD\3.4\3.4\obj\Release\3.4.csprojResolveAssemblyReference.cache
+C:\Users\takta\Dropbox\ISD\3.4\3.4\obj\Release\3.4.csproj.CoreCompileInputs.cache
+C:\Users\takta\Dropbox\ISD\3.4\3.4\obj\Release\3.4.exe
+C:\Users\takta\Dropbox\ISD\3.4\3.4\obj\Release\3.4.pdb

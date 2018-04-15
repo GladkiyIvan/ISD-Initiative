@@ -1,0 +1,7 @@
+C:\Users\takta\Dropbox\ISD\2.7\2.7\bin\Debug\2.7.exe.config
+C:\Users\takta\Dropbox\ISD\2.7\2.7\bin\Debug\2.7.exe
+C:\Users\takta\Dropbox\ISD\2.7\2.7\bin\Debug\2.7.pdb
+C:\Users\takta\Dropbox\ISD\2.7\2.7\obj\Debug\2.7.csprojResolveAssemblyReference.cache
+C:\Users\takta\Dropbox\ISD\2.7\2.7\obj\Debug\2.7.csproj.CoreCompileInputs.cache
+C:\Users\takta\Dropbox\ISD\2.7\2.7\obj\Debug\2.7.exe
+C:\Users\takta\Dropbox\ISD\2.7\2.7\obj\Debug\2.7.pdb
