@@ -1,0 +1,12 @@
+E:\MyISD\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\MyISD\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\MyISD\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\MyISD\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\MyISD\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\MyISD\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\MyISD\2.1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\MyISD\2.1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\MyISD\2.1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\MyISD\2.1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\MyISD\2.1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\MyISD\2.1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
