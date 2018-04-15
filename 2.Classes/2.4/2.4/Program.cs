@@ -10,6 +10,7 @@
             Point D = new Point(0, 4, "D");
             Figure square = new Figure("Квадрат", A, B, C, D);
             square.PerimeterCalculator();
+            square.ShowName();
             System.Console.ReadKey();
         }
     }

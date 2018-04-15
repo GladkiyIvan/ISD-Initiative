@@ -30,6 +30,10 @@ namespace _2._4
         {
             return Math.Sqrt(Math.Pow(B.X - A.X, 2) + Math.Pow(B.Y - A.Y, 2));
         }
+        public void ShowName()
+        {
+            Console.WriteLine(Name);
+        }
 
         public void PerimeterCalculator()
         {
