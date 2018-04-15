@@ -1,0 +1,7 @@
+C:\Users\Nikita\Dropbox\ISD\5.4\5.4\bin\Debug\5.4.exe.config
+C:\Users\Nikita\Dropbox\ISD\5.4\5.4\bin\Debug\5.4.exe
+C:\Users\Nikita\Dropbox\ISD\5.4\5.4\bin\Debug\5.4.pdb
+C:\Users\Nikita\Dropbox\ISD\5.4\5.4\obj\Debug\5.4.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Dropbox\ISD\5.4\5.4\obj\Debug\5.4.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Dropbox\ISD\5.4\5.4\obj\Debug\5.4.exe
+C:\Users\Nikita\Dropbox\ISD\5.4\5.4\obj\Debug\5.4.pdb
