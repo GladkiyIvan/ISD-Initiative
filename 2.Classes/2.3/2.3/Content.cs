@@ -8,24 +8,24 @@ namespace _2._3
 {
     class Content
     {
-        private string content;
+        private string mycontent;
 
-        public string SetContent
+        public string MyContent
         {
             get
             {
-                return content;
+                return mycontent;
             }
             set
             {
                 if (value != "")
                 {
-                    content = value;
+                    mycontent = value;
                 }
                 else
                 {
                     Console.WriteLine("Введена пустая строка, значение установленно по умолчанию.");
-                    content = "*пусто*";
+                    mycontent = "*пусто*";
                 }
             }
         }
@@ -33,7 +33,7 @@ namespace _2._3
         public void Show()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine($"Содержание книги: {SetContent}");
+            Console.WriteLine($"Содержание книги: {MyContent}");
         }
     }
 }
