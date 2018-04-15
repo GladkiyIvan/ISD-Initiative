@@ -1,7 +1,0 @@
-C:\Users\Nikita\Dropbox\ISD\4.2\4.2\bin\Debug\4.2.exe.config
-C:\Users\Nikita\Dropbox\ISD\4.2\4.2\bin\Debug\4.2.exe
-C:\Users\Nikita\Dropbox\ISD\4.2\4.2\bin\Debug\4.2.pdb
-C:\Users\Nikita\Dropbox\ISD\4.2\4.2\obj\Debug\4.2.csprojResolveAssemblyReference.cache
-C:\Users\Nikita\Dropbox\ISD\4.2\4.2\obj\Debug\4.2.csproj.CoreCompileInputs.cache
-C:\Users\Nikita\Dropbox\ISD\4.2\4.2\obj\Debug\4.2.exe
-C:\Users\Nikita\Dropbox\ISD\4.2\4.2\obj\Debug\4.2.pdb
