@@ -8,9 +8,9 @@ namespace _2._3
 {
     class Book
     {
-        private Title title = new Title();
-        private Author author = new Author();
-        private Content content = new Content();
+        private Title title;
+        private Author author;
+        private Content content;
 
         public Book (Title newtitle, Author newauthor, Content newcontent)
         {

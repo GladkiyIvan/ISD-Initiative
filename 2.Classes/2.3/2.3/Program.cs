@@ -14,19 +14,19 @@ namespace _2._3
 
             Title newtitle = new Title();
             Console.Write("Введите название книги: ");
-            newtitle.SetTitle = Console.ReadLine();
+            newtitle.MyTitle = Console.ReadLine();
 
             Console.CursorTop++;
 
             Author newauthor = new Author();
             Console.Write("Введите имя автора: ");
-            newauthor.SetAuthor = Console.ReadLine();
+            newauthor.MyAuthor = Console.ReadLine();
 
             Console.CursorTop++;
 
             Content newcontent = new Content();
             Console.Write("Введите содержание книги: ");
-            newcontent.SetContent = Console.ReadLine();
+            newcontent.MyContent = Console.ReadLine();
 
             mybook = new Book(newtitle, newauthor, newcontent);
 

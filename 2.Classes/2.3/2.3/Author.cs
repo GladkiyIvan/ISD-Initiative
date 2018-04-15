@@ -8,24 +8,24 @@ namespace _2._3
 {
     class Author
     {
-        private string author;
+        private string myauthor;
 
-        public string SetAuthor
+        public string MyAuthor
         {
             get
             {
-                return author;
+                return myauthor;
             }
             set
             {
                 if (value != "")
                 {
-                    author = value;
+                    myauthor = value;
                 }
                 else
                 {
                     Console.WriteLine("Введена пустая строка, значение установленно по умолчанию.");
-                    author = "*пусто*";
+                    myauthor = "*пусто*";
                 }
             }
         }
@@ -33,7 +33,7 @@ namespace _2._3
         public void Show()
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine($"Имя автора: {SetAuthor}");
+            Console.WriteLine($"Имя автора: {MyAuthor}");
         }
     }
 }
