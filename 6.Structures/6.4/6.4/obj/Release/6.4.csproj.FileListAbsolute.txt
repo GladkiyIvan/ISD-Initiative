@@ -5,3 +5,10 @@ C:\Users\takta\Dropbox\ISD\6.4\6.4\obj\Release\6.4.csprojResolveAssemblyReferenc
 C:\Users\takta\Dropbox\ISD\6.4\6.4\obj\Release\6.4.csproj.CoreCompileInputs.cache
 C:\Users\takta\Dropbox\ISD\6.4\6.4\obj\Release\6.4.exe
 C:\Users\takta\Dropbox\ISD\6.4\6.4\obj\Release\6.4.pdb
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\6.Structures\6.4\6.4\bin\Release\6.4.exe.config
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\6.Structures\6.4\6.4\bin\Release\6.4.exe
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\6.Structures\6.4\6.4\bin\Release\6.4.pdb
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\6.Structures\6.4\6.4\obj\Release\6.4.csprojResolveAssemblyReference.cache
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\6.Structures\6.4\6.4\obj\Release\6.4.csproj.CoreCompileInputs.cache
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\6.Structures\6.4\6.4\obj\Release\6.4.exe
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\6.Structures\6.4\6.4\obj\Release\6.4.pdb
