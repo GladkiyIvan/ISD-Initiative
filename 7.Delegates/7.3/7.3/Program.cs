@@ -3,11 +3,10 @@
 namespace _7._3
 {
     delegate int MyDelegate(int x);
-    
+
     class Program
     {
-        static  Random rnd = new Random();
-        static string output;
+        static Random rnd = new Random();
 
         static void Main(string[] args)
         {
@@ -20,11 +19,9 @@ namespace _7._3
 
             while (true)
             {
-                output = "Три случайных числа   : ";
+                Console.Write("Три случайных числа   : ");
 
                 anonymous(delegates);
-
-                Console.WriteLine(output);
 
                 Console.WriteLine("\nНажмите, чтобы продолжить...");
                 Console.ReadKey();
@@ -32,18 +29,16 @@ namespace _7._3
             }
         }
 
-        static Func<MyDelegate[], int> anonymous = (delegates) =>
+        static Action<MyDelegate[]> anonymous = (delegates) =>
         {
-            int temp = 0;
+            double sum = 0;
             foreach (MyDelegate d in delegates)
             {
                 int invokationResult = d.Invoke(9);
-                temp += invokationResult;
-                output += invokationResult + " ";
+                sum += invokationResult;
+                Console.Write(invokationResult + " ");
             }
-            double result = (double)temp / (double)delegates.Length;
-            output += "\nСреднее арифметическое: " + Math.Round(result);
-            return temp;
+            Console.WriteLine("\nСреднее арифметическое: " + (sum / delegates.Length).ToString("F"));
         };
 
         static int FirstMethod(int x)

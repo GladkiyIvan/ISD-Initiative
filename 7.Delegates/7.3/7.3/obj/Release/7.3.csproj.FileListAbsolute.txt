@@ -5,3 +5,10 @@ C:\Users\takta\Dropbox\ISD\7.3\7.3\obj\Release\7.3.csprojResolveAssemblyReferenc
 C:\Users\takta\Dropbox\ISD\7.3\7.3\obj\Release\7.3.csproj.CoreCompileInputs.cache
 C:\Users\takta\Dropbox\ISD\7.3\7.3\obj\Release\7.3.exe
 C:\Users\takta\Dropbox\ISD\7.3\7.3\obj\Release\7.3.pdb
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\7.Delegates\7.3\7.3\bin\Release\7.3.exe.config
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\7.Delegates\7.3\7.3\bin\Release\7.3.exe
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\7.Delegates\7.3\7.3\bin\Release\7.3.pdb
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\7.Delegates\7.3\7.3\obj\Release\7.3.csprojResolveAssemblyReference.cache
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\7.Delegates\7.3\7.3\obj\Release\7.3.csproj.CoreCompileInputs.cache
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\7.Delegates\7.3\7.3\obj\Release\7.3.exe
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\7.Delegates\7.3\7.3\obj\Release\7.3.pdb
