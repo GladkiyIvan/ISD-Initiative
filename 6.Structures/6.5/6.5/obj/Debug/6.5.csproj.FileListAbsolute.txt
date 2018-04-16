@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ISD\ISD-Initiative\6.Structures\6.5\6.5\bin\Debug\6.5.exe.config
+C:\Users\User\Desktop\ISD\ISD-Initiative\6.Structures\6.5\6.5\bin\Debug\6.5.exe
+C:\Users\User\Desktop\ISD\ISD-Initiative\6.Structures\6.5\6.5\bin\Debug\6.5.pdb
+C:\Users\User\Desktop\ISD\ISD-Initiative\6.Structures\6.5\6.5\obj\Debug\6.5.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ISD\ISD-Initiative\6.Structures\6.5\6.5\obj\Debug\6.5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ISD\ISD-Initiative\6.Structures\6.5\6.5\obj\Debug\6.5.exe
+C:\Users\User\Desktop\ISD\ISD-Initiative\6.Structures\6.5\6.5\obj\Debug\6.5.pdb
