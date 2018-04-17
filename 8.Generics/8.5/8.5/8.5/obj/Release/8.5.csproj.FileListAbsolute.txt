@@ -1,0 +1,7 @@
+C:\Users\takta\Desktop\8.5\8.5\8.5\bin\Release\8.5.exe.config
+C:\Users\takta\Desktop\8.5\8.5\8.5\bin\Release\8.5.exe
+C:\Users\takta\Desktop\8.5\8.5\8.5\bin\Release\8.5.pdb
+C:\Users\takta\Desktop\8.5\8.5\8.5\obj\Release\8.5.csproj.CoreCompileInputs.cache
+C:\Users\takta\Desktop\8.5\8.5\8.5\obj\Release\8.5.exe
+C:\Users\takta\Desktop\8.5\8.5\8.5\obj\Release\8.5.pdb
+C:\Users\takta\Desktop\8.5\8.5\8.5\obj\Release\8.5.csprojResolveAssemblyReference.cache
