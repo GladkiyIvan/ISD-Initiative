@@ -4,86 +4,24 @@ using System.Linq;
 using System.Text;
 
 namespace _4._1
-{
-    abstract class AbstractHandler
-    {
-        abstract public void Open() ;
-        abstract public void Create() ;
-        abstract public void Change() ;
-        abstract public void Save() ;
-    }
-    class XMLHandler : AbstractHandler
-    {
-        public override void Open()
-        {
-            Console.WriteLine("XML - Open");
-        }
-        public override void Create()
-        {
-            Console.WriteLine("XML - Create");  
-        }
-        public override void Change()
-        {
-            Console.WriteLine("XML - Change");
-        }
-        public override void Save()
-        {
-            Console.WriteLine("XML - Save");
-        }
-    }
-    class TXTHandler : AbstractHandler
-    {
-        public override void Open()
-        {
-            Console.WriteLine("TXT - Open");
-        }
-        public override void Create()
-        {
-            Console.WriteLine("TXT - Create");
-        }
-        public override void Change()
-        {
-            Console.WriteLine("TXT - Change");
-        }
-        public override void Save()
-        {
-            Console.WriteLine("TXT - Save");
-        }
-    }
-    class DocHandler : AbstractHandler
-    {
-        public override void Open()
-        {
-            Console.WriteLine("DOC - Open");
-        }
-        public override void Create()
-        {
-            Console.WriteLine("DOC - Create");
-        }
-        public override void Change()
-        {
-            Console.WriteLine("DOC - Change");
-        }
-        public override void Save()
-        {
-            Console.WriteLine("DOC - Save");
-        }
-    }
-    
+{ 
     class Program
     {
         static public void Determinator(AbstractHandler exemplar)
         {
             if (exemplar is XMLHandler)
             {
+                Console.WriteLine("It's XML . XML-methods :"); 
                 exemplar.Open();
             }
             else if (exemplar is DocHandler)
-            { 
+            {
+                Console.WriteLine("It's Doc . Doc-methods :");
                 exemplar.Open();
             } 
             else if (exemplar is TXTHandler)
             {
+                Console.WriteLine("It's TXT . TXT-methods :");
                 exemplar.Open();
             }
             else
