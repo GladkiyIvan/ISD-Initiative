@@ -1,0 +1,12 @@
+E:\MyISD\4.1\4.1\bin\Debug\4.1.exe
+E:\MyISD\4.1\4.1\bin\Debug\4.1.pdb
+E:\MyISD\4.1\4.1\obj\Debug\4.1.csprojResolveAssemblyReference.cache
+E:\MyISD\4.1\4.1\obj\Debug\4.1.csproj.CoreCompileInputs.cache
+E:\MyISD\4.1\4.1\obj\Debug\4.1.exe
+E:\MyISD\4.1\4.1\obj\Debug\4.1.pdb
+E:\ISD\ISD-Initiative\4.Abstractions\4.1\4.1\bin\Debug\4.1.exe
+E:\ISD\ISD-Initiative\4.Abstractions\4.1\4.1\bin\Debug\4.1.pdb
+E:\ISD\ISD-Initiative\4.Abstractions\4.1\4.1\obj\Debug\4.1.csprojResolveAssemblyReference.cache
+E:\ISD\ISD-Initiative\4.Abstractions\4.1\4.1\obj\Debug\4.1.csproj.CoreCompileInputs.cache
+E:\ISD\ISD-Initiative\4.Abstractions\4.1\4.1\obj\Debug\4.1.exe
+E:\ISD\ISD-Initiative\4.Abstractions\4.1\4.1\obj\Debug\4.1.pdb
