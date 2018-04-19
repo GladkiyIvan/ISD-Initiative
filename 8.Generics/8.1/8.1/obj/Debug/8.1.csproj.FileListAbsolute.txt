@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\bin\Debug\8.1.exe.config
+C:\Users\User\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\bin\Debug\8.1.exe
+C:\Users\User\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\bin\Debug\8.1.pdb
+C:\Users\User\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\obj\Debug\8.1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\obj\Debug\8.1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\obj\Debug\8.1.exe
+C:\Users\User\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\obj\Debug\8.1.pdb
