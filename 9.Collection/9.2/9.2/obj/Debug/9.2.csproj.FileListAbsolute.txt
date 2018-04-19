@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ISD\ISD-Initiative\9.Collection\9.2\9.2\bin\Debug\9.2.exe.config
+C:\Users\User\Desktop\ISD\ISD-Initiative\9.Collection\9.2\9.2\bin\Debug\9.2.exe
+C:\Users\User\Desktop\ISD\ISD-Initiative\9.Collection\9.2\9.2\bin\Debug\9.2.pdb
+C:\Users\User\Desktop\ISD\ISD-Initiative\9.Collection\9.2\9.2\obj\Debug\9.2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ISD\ISD-Initiative\9.Collection\9.2\9.2\obj\Debug\9.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ISD\ISD-Initiative\9.Collection\9.2\9.2\obj\Debug\9.2.exe
+C:\Users\User\Desktop\ISD\ISD-Initiative\9.Collection\9.2\9.2\obj\Debug\9.2.pdb
