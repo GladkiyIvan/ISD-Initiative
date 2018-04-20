@@ -28,12 +28,7 @@ namespace _5._1
         }
         static public double Power(double a, double power)
         {
-            double result = 1;
-            for (int i = 0; i < power; i++)
-            {
-                result *= a;
-            }
-            return result;
+            return Math.Pow(a, power) ;
         }
     }
 }
