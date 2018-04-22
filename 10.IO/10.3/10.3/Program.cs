@@ -116,7 +116,7 @@ namespace _10._3
                         {
                             decompressionStream.CopyTo(writeStream);
 
-                            Console.WriteLine($"\nФайл {decompressedFile} восстановлен");
+                            Console.WriteLine($"\nФайл {compressedFile} восстановлен");
                         }
                     }
                 }
