@@ -1,0 +1,6 @@
+C:\Users\Nikita\Dropbox\ISD\10.3\10.3\bin\Release\10.3.exe.config
+C:\Users\Nikita\Dropbox\ISD\10.3\10.3\bin\Release\10.3.exe
+C:\Users\Nikita\Dropbox\ISD\10.3\10.3\bin\Release\10.3.pdb
+C:\Users\Nikita\Dropbox\ISD\10.3\10.3\obj\Release\10.3.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Dropbox\ISD\10.3\10.3\obj\Release\10.3.exe
+C:\Users\Nikita\Dropbox\ISD\10.3\10.3\obj\Release\10.3.pdb
