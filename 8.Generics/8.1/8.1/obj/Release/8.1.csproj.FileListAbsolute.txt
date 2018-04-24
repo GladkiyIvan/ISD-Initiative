@@ -1,0 +1,7 @@
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\8.Generics\8.1\8.1\bin\Release\8.1.exe.config
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\8.Generics\8.1\8.1\bin\Release\8.1.exe
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\8.Generics\8.1\8.1\bin\Release\8.1.pdb
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\8.Generics\8.1\8.1\obj\Release\8.1.csprojResolveAssemblyReference.cache
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\8.Generics\8.1\8.1\obj\Release\8.1.csproj.CoreCompileInputs.cache
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\8.Generics\8.1\8.1\obj\Release\8.1.exe
+C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\8.Generics\8.1\8.1\obj\Release\8.1.pdb

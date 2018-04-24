@@ -1,16 +1,32 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _8._1
 {
-    class MyClass<T>
+    static class MyClass<T>
     {
-        public static T FacrotyMethod()
+        public static T FactoryMethod(params object[] args)
         {
-            return default(T);
+            if (args.Length == 0 && default(T) != null)
+            {
+                return default(T);
+            }
+            else
+            {
+                try
+                {
+                    return (T)Activator.CreateInstance(typeof(T), args);
+                }
+                catch(Exception e)
+                {
+                    Console.WriteLine("Ошибка: " + e.Message);
+                    Console.WriteLine("Вероятно, вы пытались создать экземпляр типа, передавая его специальному конструктору некорректные параметры");
+                    if(default(T) == null)
+                        Console.WriteLine("Метод вернул null");
+                    else
+                        Console.WriteLine("Метод вернул " + default(T));
+                    return default(T);
+                }
+            }
         }
     }
 }
