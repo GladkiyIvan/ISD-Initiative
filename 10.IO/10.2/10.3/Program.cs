@@ -10,7 +10,7 @@ namespace _10._3
     {
         static void Main(string[] args)
         {
-            string appPath = Path.GetDirectoryName(Path.GetDirectoryName(System.IO.Directory.GetCurrentDirectory()));
+            string appPath = Path.GetDirectoryName(Path.GetDirectoryName(Directory.GetCurrentDirectory()));
 
             if (!File.Exists(appPath))
             {

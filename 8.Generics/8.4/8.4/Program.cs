@@ -11,7 +11,7 @@ namespace _8._4
             myList.Add(1);
             myList.Add(2);
             int[] arr = myList.GetArray();
-            Console.WriteLine("Ваш лист: "  );
+            Console.WriteLine("Ваш массив: "  );
             for (int i = 0; i < arr.Length; i++)
             {
                 Console.Write(arr[i] + " ");

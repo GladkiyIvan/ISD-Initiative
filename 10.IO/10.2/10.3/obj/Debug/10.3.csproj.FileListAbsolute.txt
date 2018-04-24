@@ -4,3 +4,9 @@ C:\Users\admin\source\repos\10.3\10.3\obj\Debug\10.3.csprojResolveAssemblyRefere
 C:\Users\admin\source\repos\10.3\10.3\obj\Debug\10.3.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\10.3\10.3\obj\Debug\10.3.exe
 C:\Users\admin\source\repos\10.3\10.3\obj\Debug\10.3.pdb
+E:\ISD\ISD-Initiative\10.IO\10.2\10.3\bin\Debug\10.3.exe
+E:\ISD\ISD-Initiative\10.IO\10.2\10.3\bin\Debug\10.3.pdb
+E:\ISD\ISD-Initiative\10.IO\10.2\10.3\obj\Debug\10.3.csprojResolveAssemblyReference.cache
+E:\ISD\ISD-Initiative\10.IO\10.2\10.3\obj\Debug\10.3.csproj.CoreCompileInputs.cache
+E:\ISD\ISD-Initiative\10.IO\10.2\10.3\obj\Debug\10.3.exe
+E:\ISD\ISD-Initiative\10.IO\10.2\10.3\obj\Debug\10.3.pdb

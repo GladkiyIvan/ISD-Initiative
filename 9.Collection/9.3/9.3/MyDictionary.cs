@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace _8._3
+namespace _9._3
 {
     class MyDictionary<TKey, TValue>
     {
@@ -22,7 +22,7 @@ namespace _8._3
         public void Add(TKey key, TValue value)
         {
                 tKey.Add(key);
-                tValue.Add(value);   
+                tValue.Add(value);
         }
         public TValue this[TKey key]
         {
@@ -46,6 +46,10 @@ namespace _8._3
                     tValue.Add(value);
                 }
             }
+        }
+        public IEnumerator<TValue> GetEnumerator()
+        {
+            return tValue.GetEnumerator();
         }
     }
 }
