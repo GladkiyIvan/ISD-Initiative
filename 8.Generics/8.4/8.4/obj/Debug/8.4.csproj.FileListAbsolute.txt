@@ -1,0 +1,6 @@
+E:\MyISD\8.4\8.4\bin\Debug\8.4.exe
+E:\MyISD\8.4\8.4\bin\Debug\8.4.pdb
+E:\MyISD\8.4\8.4\obj\Debug\8.4.csprojResolveAssemblyReference.cache
+E:\MyISD\8.4\8.4\obj\Debug\8.4.csproj.CoreCompileInputs.cache
+E:\MyISD\8.4\8.4\obj\Debug\8.4.exe
+E:\MyISD\8.4\8.4\obj\Debug\8.4.pdb
