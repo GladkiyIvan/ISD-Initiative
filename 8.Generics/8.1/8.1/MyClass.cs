@@ -20,10 +20,12 @@ namespace _8._1
                 {
                     Console.WriteLine("Ошибка: " + e.Message);
                     Console.WriteLine("Вероятно, вы пытались создать экземпляр типа, передавая его специальному конструктору некорректные параметры");
+
                     if(default(T) == null)
                         Console.WriteLine("Метод вернул null");
                     else
                         Console.WriteLine("Метод вернул " + default(T));
+
                     return default(T);
                 }
             }
