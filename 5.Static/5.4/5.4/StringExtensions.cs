@@ -26,7 +26,7 @@ namespace _5._4
             }
             else
             {
-                return null;
+                throw new ArgumentException();
             }
         }
         public static int MyIndexOf(this string str, string value)
