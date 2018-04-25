@@ -16,6 +16,8 @@ namespace _5._4
 
         static void ShowUI()
         {
+            Console.Clear();
+
             Console.WriteLine("Выбор метода: ");
             Console.WriteLine(" 1. MySubstring(int, int)");
             Console.WriteLine(" 2. MyIndexOf(string)");
@@ -34,6 +36,8 @@ namespace _5._4
                     Console.Write("Индекс:              ");
                     if (!int.TryParse(Console.ReadLine(), out int index))
                         canInvoke = false;
+                    if (index < 0)
+                        ShowUI();
                     Console.Write("Количество символов: ");
                     if (!int.TryParse(Console.ReadLine(), out int count))
                         canInvoke = false;
@@ -44,9 +48,10 @@ namespace _5._4
                         {
                             Console.WriteLine($"Вывод:               {str1.MySubstring(index, count)}");
                         }
-                        catch(ArgumentException e)
+                        catch(Exception e)
                         {
                             Console.WriteLine("Ошибка: " + e.Message);
+                            ShowUI();
                         }
                     }
                     else

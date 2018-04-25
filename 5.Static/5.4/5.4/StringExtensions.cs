@@ -6,7 +6,7 @@ namespace _5._4
     {
         public static string MySubstring(this string str, int index, int count)
         {
-            if(str != null && index > -1 && count > 0)
+            if(str != null && index > -1 && count >= 0)
             {
                 string newString = "";
 
@@ -17,9 +17,9 @@ namespace _5._4
                         newString += str[index + i];
                     }
                 }
-                catch(IndexOutOfRangeException e)
+                catch(IndexOutOfRangeException)
                 {
-                    Console.WriteLine("Ура, исключение! - " + e.Message + " :з");
+                    throw new IndexOutOfRangeException();
                 }
 
                 return newString;
