@@ -39,9 +39,20 @@ namespace _5._4
                         canInvoke = false;
 
                     if (canInvoke)
-                        Console.WriteLine($"Вывод:               {str1.MySubstring(index, count)}");
+                    {
+                        try
+                        {
+                            Console.WriteLine($"Вывод:               {str1.MySubstring(index, count)}");
+                        }
+                        catch(ArgumentException e)
+                        {
+                            Console.WriteLine("Ошибка: " + e.Message);
+                        }
+                    }
                     else
+                    {
                         Console.WriteLine("Некорректные аргументы");
+                    }
 
                     ExitFromCast();
                     break;
