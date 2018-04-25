@@ -17,10 +17,7 @@ namespace _5._4
                         newString += str[index + i];
                     }
                 }
-                catch(IndexOutOfRangeException)
-                {
-                    throw new IndexOutOfRangeException();
-                }
+                catch(IndexOutOfRangeException) { }
 
                 return newString;
             }

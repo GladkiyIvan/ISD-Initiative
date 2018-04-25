@@ -37,7 +37,11 @@ namespace _5._4
                     if (!int.TryParse(Console.ReadLine(), out int index))
                         canInvoke = false;
                     if (index < 0)
+                    {
+                        Console.WriteLine("Ошибка: Индекс не может быть отрицательным");
+                        ExitFromCast();
                         ShowUI();
+                    }
                     Console.Write("Количество символов: ");
                     if (!int.TryParse(Console.ReadLine(), out int count))
                         canInvoke = false;
@@ -51,12 +55,13 @@ namespace _5._4
                         catch(Exception e)
                         {
                             Console.WriteLine("Ошибка: " + e.Message);
+                            ExitFromCast();
                             ShowUI();
                         }
                     }
                     else
                     {
-                        Console.WriteLine("Некорректные аргументы");
+                        Console.WriteLine("Ошибка: Некорректные аргументы");
                     }
 
                     ExitFromCast();
