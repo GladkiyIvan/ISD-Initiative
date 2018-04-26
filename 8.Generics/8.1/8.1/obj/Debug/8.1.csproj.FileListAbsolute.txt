@@ -12,3 +12,10 @@ C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\8.Generics\8.1\8.1\obj\Debug\8.1.p
 C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\8.Generics\8.1\8.1\bin\Debug\8.1.exe.config
 C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\8.Generics\8.1\8.1\bin\Debug\8.1.exe
 C:\Users\takta\Desktop\ISDrepo\ISD-Initiative\8.Generics\8.1\8.1\bin\Debug\8.1.pdb
+C:\Users\Nikita\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\obj\Debug\8.1.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\obj\Debug\8.1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\obj\Debug\8.1.exe
+C:\Users\Nikita\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\obj\Debug\8.1.pdb
+C:\Users\Nikita\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\bin\Debug\8.1.exe.config
+C:\Users\Nikita\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\bin\Debug\8.1.exe
+C:\Users\Nikita\Desktop\ISD\ISD-Initiative\8.Generics\8.1\8.1\bin\Debug\8.1.pdb
